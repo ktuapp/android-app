@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">KTU App</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_about">About</string>
+    <string name="action_logout">Log Out</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_reports">Reports</string>
+    <string name="title_semesters">Semesters</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_semester_detail">SemesterDetailActivity</string>
+
+    <string name="api_url">https://api.ktuapp.xyz/api/v1</string>
+    <string name="api_key">ADD_API_KEY_HERE</string>
+    <string name="title_activity_notification">Notifications</string>
+    <string name="preference_file_key">ktuapp_preferences</string>
+    <string name="is_logged_key">is_logged_key</string>
+    <string name="logged_userid">logged_userid</string>
+    <string name="userid">User Id</string>
+    <string name="banner_ad_unit_id">ca-app-pub-6578701194950876/8121078856</string>
+    <string name="basic_details">Basic Details</string>
+    <string name="aadhar_number">Aadhar Number</string>
+    <string name="blood_group">Blood Group</string>
+    <string name="admitted_branch">Admitted Branch</string>
+    <string name="date_of_admission">Date of admission</string>
+    <string name="admission_number">Admission Number</string>
+    <string name="academic_performance">Academic Performance</string>
+    <string name="current_cgpa">Current CGPA</string>
+    <string name="credits_earned">Credits Earned</string>
+    <string name="year_back_status">Year Back Status</string>
+    <string name="semester_7">Semester 7</string>
+    <string name="log_in">Log In</string>
+    <string name="password">Password</string>
+    <string name="notification">Notification</string>
+    <string name="admission_details">Admission Details</string>
+</resources>

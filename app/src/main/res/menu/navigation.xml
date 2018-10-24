@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/dashboard_profile"
+        android:title="@string/title_profile" />
+
+    <item
+        android:id="@+id/navigation_reports"
+        android:icon="@drawable/dashboard_reports"
+        android:title="@string/title_reports" />
+
+    <item
+        android:id="@+id/navigation_semesters"
+        android:icon="@drawable/dashboard_list"
+        android:title="@string/title_semesters" />
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/dashboard_notification"
+        android:title="@string/title_notifications" />
+
+</menu>
